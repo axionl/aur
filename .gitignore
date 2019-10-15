@@ -9,5 +9,9 @@
 *.log.*
 *.sig
 
+.SRCINFO
+old_ver.txt
+new_ver.txt
+
 pkg/
 src/
