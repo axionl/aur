@@ -1,0 +1,3 @@
+[submodule "qv2ray-dev-git"]
+	path = qv2ray-dev-git
+	url = ssh://aur@aur.archlinux.org/qv2ray-dev-git.git
