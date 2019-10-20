@@ -1,3 +1,66 @@
 [submodule "qv2ray-dev-git"]
 	path = qv2ray-dev-git
 	url = ssh://aur@aur.archlinux.org/qv2ray-dev-git.git
+[submodule "trojan-git"]
+	path = trojan-git
+	url = ssh://aur@aur.archlinux.org/trojan-git.git
+[submodule "ciel-git"]
+	path = ciel-git
+	url = ssh://aur@aur.archlinux.org/ciel-git.git
+[submodule "gcsf"]
+	path = gcsf
+	url = ssh://aur@aur.archlinux.org/gcsf.git
+[submodule "gcsf-bin"]
+	path = gcsf-bin
+	url = ssh://aur@aur.archlinux.org/gcsf-bin.git
+[submodule "color-picker"]
+	path = color-picker
+	url = ssh://aur@aur.archlinux.org/color-picker.git
+[submodule "baidunetdisk-bin"]
+	path = baidunetdisk-bin
+	url = ssh://aur@aur.archlinux.org/baidunetdisk-bin.git
+[submodule "breeze-legacy-git"]
+	path = breeze-legacy-git
+	url = ssh://aur@aur.archlinux.org/breeze-legacy-git.git
+[submodule "filebrowser-bin"]
+	path = filebrowser-bin
+	url = ssh://aur@aur.archlinux.org/filebrowser-bin.git
+[submodule "gcsf-git"]
+	path = gcsf-git
+	url = ssh://aur@aur.archlinux.org/gcsf-git.git
+[submodule "minieap-gzhu-git"]
+	path = minieap-gzhu-git
+	url = ssh://aur@aur.archlinux.org/minieap-gzhu-git.git
+[submodule "teleport-bin"]
+	path = teleport-bin
+	url = ssh://aur@aur.archlinux.org/teleport-bin.git
+[submodule "zafiro-icon-theme"]
+	path = zafiro-icon-theme
+	url = ssh://aur@aur.archlinux.org/zafiro-icon-theme.git
+[submodule "baidupcs-go-bin"]
+	path = baidupcs-go-bin
+	url = ssh://aur@aur.archlinux.org/baidupcs-go-bin.git
+[submodule "baidupcs-go-git"]
+	path = baidupcs-go-git
+	url = ssh://aur@aur.archlinux.org/baidupcs-go-git.git
+[submodule "go-nebulas"]
+	path = go-nebulas
+	url = ssh://aur@aur.archlinux.org/go-nebulas.git
+[submodule "netease-musicbox"]
+	path = netease-musicbox
+	url = ssh://aur@aur.archlinux.org/netease-musicbox.git
+[submodule "netease-musicbox-git"]
+	path = netease-musicbox-git
+	url = ssh://aur@aur.archlinux.org/netease-musicbox-git.git
+[submodule "oni-bin"]
+	path = oni-bin
+	url = ssh://aur@aur.archlinux.org/oni-bin.git
+[submodule "sielo-browser-git"]
+	path = sielo-browser-git
+	url = ssh://aur@aur.archlinux.org/sielo-browser-git.git
+[submodule "skim-git"]
+	path = skim-git
+	url = ssh://aur@aur.archlinux.org/skim-git.git
+[submodule "vim-ripgrep-git"]
+	path = vim-ripgrep-git
+	url = ssh://aur@aur.archlinux.org/vim-ripgrep-git.git
