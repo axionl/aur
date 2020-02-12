@@ -64,3 +64,6 @@
 [submodule "vim-ripgrep-git"]
 	path = vim-ripgrep-git
 	url = ssh://aur@aur.archlinux.org/vim-ripgrep-git.git
+[submodule "qv2ray"]
+	path = qv2ray
+	url = ssh://aur@aur.archlinux.org/qv2ray.git
