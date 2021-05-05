@@ -67,3 +67,6 @@
 [submodule "qv2ray"]
 	path = qv2ray
 	url = ssh://aur@aur.archlinux.org/qv2ray.git
+[submodule "skm"]
+	path = skm
+	url = ssh://aur@aur.archlinux.org/skm.git
